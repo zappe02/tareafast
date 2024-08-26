@@ -12,6 +12,7 @@ from src.example.services import crear_persona, crear_mascota
 from src.example.schemas import PersonaCreate, MascotaCreate
 from src.example.models import TipoMascota
 
+
 load_dotenv()
 
 # creamos una db para testing
